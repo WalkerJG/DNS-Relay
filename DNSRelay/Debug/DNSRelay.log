@@ -1,0 +1,11 @@
+﻿  main.cpp
+  DNSRelay.cpp
+d:\dnsrelay\dnsrelay\dnsrelay.cpp(267): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\dnsrelay\dnsrelay\dnsrelay.cpp(284): warning C4309: “=”: 截断常量值
+d:\dnsrelay\dnsrelay\dnsrelay.cpp(296): warning C4309: “=”: 截断常量值
+d:\dnsrelay\dnsrelay\dnsrelay.cpp(337): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\dnsrelay\dnsrelay\dnsrelay.cpp(363): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+  正在生成代码...
+  DNSRelay.vcxproj -> D:\DNSRelay\Debug\DNSRelay.exe
+  DNSRelay.vcxproj -> D:\DNSRelay\Debug\DNSRelay.pdb (Full PDB)
